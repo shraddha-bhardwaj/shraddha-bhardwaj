@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shraddha</h1>
-<h3 align="center">Beta Microsoft Learn Student Ambassador</h3>
+<h3 align="center">ASE @Lowe's India and Gold MLSA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha-bhardwaj" /> </p>
 

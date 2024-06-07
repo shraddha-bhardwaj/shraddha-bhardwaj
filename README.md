@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shraddha-bhardwaj" alt="shraddha-bhardwaj" /></a> </p>
 
 
-- 📝 My blogs [blog](https://medium.com/@shraddha1101bhar)
+- 📝 [blog](https://medium.com/@shraddha1101bhar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
